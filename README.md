@@ -8,3 +8,12 @@ Proving an induction:
 1. Base case
 2. Let n∈Z
 
+
+![image](https://user-images.githubusercontent.com/89417727/160408697-3b231846-a371-4f1d-b731-c23598833c9b.png)
+
+![image](https://user-images.githubusercontent.com/89417727/160410074-6067be9c-e86a-4b00-8b5b-76bc90c77fc9.png)
+
+![image](https://user-images.githubusercontent.com/89417727/160412134-8f584671-3af8-426b-8ca3-08cef5618f6d.png)
+
+![image](https://user-images.githubusercontent.com/89417727/160416638-e25ee17b-cf0d-4c9f-8b8c-6862098e8457.png)
+
