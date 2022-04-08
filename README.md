@@ -17,3 +17,5 @@ Proving an induction:
 
 ![image](https://user-images.githubusercontent.com/89417727/160416638-e25ee17b-cf0d-4c9f-8b8c-6862098e8457.png)
 
+![image](https://user-images.githubusercontent.com/89417727/162446212-63d5aa3f-ea5e-4000-88e5-f0e1ecb82d6a.png)
+
