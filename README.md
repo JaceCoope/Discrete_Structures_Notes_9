@@ -24,3 +24,4 @@ Hockey Stick Theorem
 Addition of all the diagonal entries
 
 ![image](https://user-images.githubusercontent.com/89417727/162753741-ff4996cb-0962-4f3b-8356-84af29264e20.png)
+
