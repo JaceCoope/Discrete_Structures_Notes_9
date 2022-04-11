@@ -20,3 +20,7 @@ Proving an induction:
 ![image](https://user-images.githubusercontent.com/89417727/162446212-63d5aa3f-ea5e-4000-88e5-f0e1ecb82d6a.png)
 
 ![image](https://user-images.githubusercontent.com/89417727/162752858-0886791d-3891-486d-b0fc-dd30efc72019.png)
+Hockey Stick Theorem
+Addition of all the diagonal entries
+
+![image](https://user-images.githubusercontent.com/89417727/162753741-ff4996cb-0962-4f3b-8356-84af29264e20.png)
